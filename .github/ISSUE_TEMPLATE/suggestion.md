@@ -1,7 +1,7 @@
 ---
 name: Suggestion
 about: Suggest an idea for this project
-title: "[SUGGESTION]"
+title: "[SUGGESTION]: "
 labels: suggestion
 assignees: MrBlob37
 
