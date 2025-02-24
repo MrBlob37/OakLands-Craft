@@ -13,5 +13,5 @@ assignees: MrBlob37
 **Please describe the issue and provide some footage of it**
 
 
-- [ ] I have confirmed that no one else reported this issue. <span style="color: red;">*</span>
-- [ ] I described the bug understandably. <span style="color: red;">*</span>
+
+**Make sure that no one else reported this issue already!**
